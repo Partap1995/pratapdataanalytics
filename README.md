@@ -1,6 +1,6 @@
 # Data Analytics Project
 
-This project contains SQL scripts for managing employee data, their departments, and related projects. It includes the creation of a database, tables, and various queries to analyze and manipulate the data.
+Through this project I want to show that i have some knowledge of MYSQL programming. This project includes different commands, joins and subqueries used in MYSQL. This project consists of a database 'data_analytics' and three tables. The code is about creating a database and three tables with 10 rows per table and executing different MYSQL commands.
 
 ## Database Structure
 
